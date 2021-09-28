@@ -1,24 +1,8 @@
+Based on https://github.com/pohunchn/vite-ts-quick
+
 # Installation
 
 After pulling the code, execute `npm install` in the root directory of the project. After success, execute `npm run dev` to start the project (nodejs + npm needs to be installed)
-
-# Others Template
-- [vite-react-quick](https://github.com/pohunchn/vite-react-quick) - For React
-
-# Built-in
-* NetBase([Fetch](https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API/Using_Fetch))
-* Cookie
-* Storage
-* [vue-router](https://next.router.vuejs.org/zh/)
-* [vuex](https://next.vuex.vuejs.org/zh/)
-* [element-plus](https://element-plus.gitee.io/#/zh-CN/component/installation)
-
-# Note
-* This framework adopts [Fetch](https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API/Using_Fetch) as a network requester, it is not recommended to introduce Axios again
-* Please do not modify all the files under the `lib` folder in the business project
-* It is recommended that the custom root library be inherited from `lib/ts/Base`
-* [gitee](https://gitee.com/phcs/vite-ts-quick) is only for domestic users to pull code，from [github](https://github.com/pohunchn/vite-ts-quick) to synchronize，please visit [github](https://github.com/pohunchn/vite-ts-quick) for PR
-* **Welcome to Issues and PR**
 
 # How to use vue3
 
