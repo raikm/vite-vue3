@@ -1,13 +1,13 @@
 {
-  "name": "vite-ts-quick",
-  "version": "0.0.0",
+  "name": "vite-vue3-template",
+  "version": "0.0.1",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.13"
+    "vue": "^3.2.19"
   },
   "devDependencies": {
     "@types/node": "^16.9.6",
